@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>vaadin-upload-flow</artifactId>
-    <version>1.0.3.HREEINFO</version>
+    <version>1.0.3.1.HREEINFO</version>
 
     <properties>
         <flow.version>1.0.5</flow.version>
